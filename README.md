@@ -104,11 +104,9 @@
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
-
 # 📊 GitHub Stats:
+		
 | ![Githmi's github stats](https://github-readme-stats.vercel.app/api?username=GithmiA&show_icons=true&theme=tokyonight) | ![Githmi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GithmiA&theme=tokyonight) |
 | --- | --- |
+		
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GithmiA&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=GithmiA&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-
-<br>
